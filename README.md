@@ -8,6 +8,14 @@
 
 This project focuses on developing digital twins for visaulization of environmental conditions, energy usage within a physical building. The framework is demonstrated using a case study of Bishop-Favrao Hall, the home of the Department of Building Construction at Virginia Tech. This digital twin provides real-time visualization of environmental conditions, including temperature, humidity, lighting levels, air quality, within the building. 
 
+## Video Demo
+
+[![Watch the demo video](https://img.youtu.be/unOPUtw5rmc/0.jpg)](https://youtu.be/unOPUtw5rmc)  
+*Click on the image to view the video.*
+
+
+
+
 ### Technical Implementation
 - **Environmental Data Collection**:  
    Environmental and energy data are collected using a network of sensors interfaced with a Raspberry Pi 4B single-board computer. Key sensors include:  
