@@ -10,9 +10,8 @@ This project focuses on developing digital twins for visaulization of environmen
 
 ## Video Demo
 
-[![Watch the demo video](https://img.youtu.be/unOPUtw5rmc/0.jpg)](https://youtu.be/unOPUtw5rmc)  
+[![Watch the demo video](https://img.youtube.com/vi/unOPUtw5rmc/0.jpg)](https://youtu.be/unOPUtw5rmc)  
 *Click on the image to view the video.*
-
 
 
 
