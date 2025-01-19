@@ -2,7 +2,7 @@
 ## Summary
 <img src="/digitaltwinautodesk.png" style="float: left; margin-right: 20px; max-width: 200px;">
 
-# Digital Building Twin Project: DAB-CPS Framework Implementation
+# Digital Building Twin Project
 
 ## Project Description
 
