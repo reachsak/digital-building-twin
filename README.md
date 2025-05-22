@@ -1,6 +1,7 @@
 # digital-building-twin
 ## Summary
 <img src="/digitaltwinautodesk.png" style="float: left; margin-right: 20px; max-width: 200px;">
+<img src="/study21.gif" style="float: left; margin-right: 20px; max-width: 200px;">
 
 # Digital Building Twin Project
 
